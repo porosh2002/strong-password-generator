@@ -1,14 +1,14 @@
 {
   "name": "strong-password-generator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "description": "strong-password-generator",
-  "main": "index.js",
+  "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "MD Jamil Kashem Porosh",
   "license": "ISC",
   "dependencies": {
     "md5": "^2.3.0",

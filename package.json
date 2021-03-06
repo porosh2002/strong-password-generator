@@ -19,8 +19,5 @@
     "type": "git",
     "url": "git+https://github.com/porosh2002/strong-password-generator.git"
   },
-  "bugs": {
-    "url": "https://github.com/porosh2002/strong-password-generator/issues"
-  },
   "homepage": "https://github.com/porosh2002/strong-password-generator#readme"
 }

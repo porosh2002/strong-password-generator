@@ -1,5 +1,5 @@
-import { v4 as uuidv4 } from 'uuid';
-import md5 from 'md5'
+const uuidv4 = require('uuid')
+const md5 =require('md5')
 const PassGen = () => {
 const Symbols = ['/','%','@',"#",'.',',','?','*','{','&',':',';','"','`','_',']','}','(',')']
 const ID = uuidv4();
